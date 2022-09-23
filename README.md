@@ -1,6 +1,6 @@
 # BD
 
-This repository contains code developed by [me](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201905477) in the pratical classes of the BD Curricular Unit in 2021/2022, including the final project also developed by [Frederico Lopes](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201907716) and [Tomás Agante](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201704976).
+This repository contains code developed by [me](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201905477) in the pratical classes of the BD Curricular Unit in [2021/2022](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484405), including the final project also developed by [Frederico Lopes](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201907716) and [Tomás Agante](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201704976).
 
 ## Project
 
